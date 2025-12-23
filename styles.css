@@ -14,12 +14,12 @@ img {
   border-radius: 50%;
 }
 .card {
-  background-color: #141414;
+  background-color: #1f1f1f;
   color: #fff;
   border-radius: 15px;
   padding: 2.5em;
   max-width: 400px;
-  margin: 23vh auto;
+  margin: 20vh auto;
   display: flex;
   flex-direction: column;
   align-items: center;
